@@ -1,0 +1,11 @@
+{
+  "name": "cypress-codespaces-example",
+  "repository": "https://github.com/AriPerkkio/cypress-codespaces-example",
+  "license": "MIT",
+  "scripts": {
+    "cy": "cypress"
+  },
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}

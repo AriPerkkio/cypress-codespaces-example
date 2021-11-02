@@ -1,0 +1,6 @@
+{
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "development",
+  "forwardPorts": [8080],
+  "postCreateCommand": "yarn install && yarn cy install"
+}
